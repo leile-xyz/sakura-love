@@ -2,8 +2,8 @@ import type React from "react"
 import "./globals.css"
 
 export const metadata = {
-  title: "樱花浪漫文字效果",
-  description: "浪漫樱花飘落文字动画效果",
+  title: "2025年520情人节快乐",
+  description: "",
     generator: 'v0.dev'
 }
 
